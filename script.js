@@ -1,4 +1,4 @@
 import message from './mixed-messages.js';
 
 
-document.querySelector('#message').innerHTML = 'This is working';
+document.querySelector('#message').innerHTML = message();
