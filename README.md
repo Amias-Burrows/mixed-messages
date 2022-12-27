@@ -8,3 +8,6 @@ Unlike what I was exepecting.  This project is designed to be used with Node.  I
 
 My projects topic will be random 3 part jokes that often won't make sense.
 
+## Viewing
+
+You can either clone this repo and try it in node or just head [here](https://github.amias.dev/mixed-messages)
